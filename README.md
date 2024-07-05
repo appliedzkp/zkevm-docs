@@ -1,4 +1,10 @@
-# zkEVM (Community Edition) Documentation
+# Archiving notice
+
+This repository is no longer maintained. For details, please refer to the README on [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits)
+
+---
+
+# [Deprecated] zkEVM (Community Edition) Documentation
 
 This is the documentation of the design and specification of the zkEVM
 community edition.
