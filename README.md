@@ -1,6 +1,6 @@
 # Archiving notice
 
-This repository is no longer maintained. For details, please refer to the README on [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits)
+This repository is no longer maintained. For details, please refer to the README on [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits/blob/main/README.md)
 
 ---
 
